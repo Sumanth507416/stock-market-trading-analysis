@@ -2,6 +2,8 @@
 Power BI dashboard analyzing stock market trades, net volume, and company-level activity
 # 📊 Stock Market Trading Analysis Dashboard
 
+[Dashboard Preview](screenshots/dashboard_overview.png)
+
 ## 🔍 Project Overview
 This project analyzes stock market trading activity using Power BI.  
 The dashboard highlights trading behavior, net volume impact, and company-level insights.
@@ -22,7 +24,6 @@ The dashboard highlights trading behavior, net volume impact, and company-level 
 - Net Volume by Company
 - Trade behavior analysis
 - Interactive filtering
-- ![Dashboard Preview](screenshots/dashboard_overview.png)
 
 
 ## Key DAX Measures
