@@ -22,6 +22,8 @@ The dashboard highlights trading behavior, net volume impact, and company-level 
 - Net Volume by Company
 - Trade behavior analysis
 - Interactive filtering
+- ![Dashboard Preview](screenshots/dashboard_overview.png)
+
 
 ## Key DAX Measures
 ```DAX
